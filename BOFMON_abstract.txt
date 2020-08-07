@@ -1,0 +1,2 @@
+The result of the cup is computer by our SVR model developed in Python 3.7 from scikit-learn implementation based on libsvm. The hyperparameters are C = 8, gamma = 0.05 and epsilon = 0.2.  
+We used hold-out technique to split, initially, the data and then to validate the model we used k-fold cross-validation and grid search.
